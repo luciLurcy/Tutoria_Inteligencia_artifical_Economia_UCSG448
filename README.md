@@ -55,8 +55,8 @@ Además, se incluirán gráficos como la matriz de confusión, la curva ROC conj
 
 ## Estructura esperada del repositorio
 
-* `titanic_model_comparison_pipeline.ipynb`: notebook principal del proyecto.
-* `informe.md`: informe corto con metodología, resultados y conclusiones.
+* `Tutoría_Economía_UCSG148.ipynb`: notebook principal del proyecto.
+* `Informe.pdf`: informe corto con metodología, resultados y conclusiones.
 * `requirements.txt`: librerías necesarias para ejecutar el proyecto.
 * `figures/`: carpeta para guardar gráficos relevantes.
 
