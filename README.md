@@ -62,4 +62,4 @@ Además, se incluirán gráficos como la matriz de confusión, la curva ROC conj
 
 ## Estado del proyecto
 
-Proyecto en desarrollo.
+Proyecto finalizado
